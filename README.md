@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0066-plus-one) |
+| [0287-find-the-duplicate-number](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -36,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
