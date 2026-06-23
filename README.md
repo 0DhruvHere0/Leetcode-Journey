@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
