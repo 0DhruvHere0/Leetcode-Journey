@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,5 +26,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
