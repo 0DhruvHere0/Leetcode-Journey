@@ -1,0 +1,23 @@
+class Solution:
+    def romanToInt(self, s: str) -> int:
+        a= s.count("IV")
+        s= s.replace("IV", "")
+        b= s.count("IX")
+        s= s.replace("IX", "")
+        c= s.count("XL")
+        s= s.replace("XL", "")
+        d= s.count("XC")
+        s= s.replace("XC", "")
+        e= s.count("CD")
+        s= s.replace("CD", "")
+        f= s.count("CM")
+        s= s.replace("CM", "")
+        g= s.count("I")
+        h= s.count("V")
+        i= s.count("X")
+        j= s.count("L")
+        k= s.count("C")
+        l= s.count("D")
+        m= s.count("M")
+        n= (1*g)+ (4*a)+ (5*h)+ (9*b)+ (10*i)+ (40*c)+ (50*j)+ (90*d)+ (100*k)+ (400*e)+ (500*l)+ (900*f)+ (1000*m)
+        return n
