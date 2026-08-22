@@ -9,10 +9,7 @@ public:
             prod= prod*(number%10);
             number= number/10;
         }
-        int total= sum+prod;
-        if (n%total==0){
-            return true;
-        }
+        if (n%(sum+prod)==0) return true;
         return false;
     }
 };
