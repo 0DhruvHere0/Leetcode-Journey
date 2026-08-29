@@ -1,7 +1,12 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         s= s.lower()
-        a= re.sub(r'[^a-zA-Z0-9]', '', s)
+        valid= []
+        alphabets= "qwertyuiopasdfghjklzxcvbnm1234567890"
+        for char in s:
+            if char in alphabets:
+                valid.append(char)
+        a= "".join(valid)
         b= a[::-1]
         if (a==b):
             return True
