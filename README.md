@@ -7,6 +7,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0283-move-zeroes) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
@@ -22,5 +23,10 @@
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
