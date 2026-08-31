@@ -16,6 +16,7 @@
 | [0326-power-of-three](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0342-power-of-four) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3280-convert-date-to-binary](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3280-convert-date-to-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3280-convert-date-to-binary](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3280-convert-date-to-binary) |
 ## Recursion
 |  |
 | ------- |
