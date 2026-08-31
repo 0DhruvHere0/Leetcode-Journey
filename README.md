@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0326-power-of-three) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
