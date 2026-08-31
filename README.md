@@ -14,6 +14,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0342-power-of-four) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
@@ -34,4 +35,9 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
