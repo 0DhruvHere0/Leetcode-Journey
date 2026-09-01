@@ -7,6 +7,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
@@ -22,10 +23,12 @@
 | ------- |
 | [0189-rotate-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0832-flipping-an-image) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
@@ -42,4 +45,9 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
