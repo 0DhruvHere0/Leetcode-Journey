@@ -8,6 +8,7 @@
 | [0189-rotate-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0832-flipping-an-image) |
+| [1480-running-sum-of-1d-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3875-construct-uniform-parity-array-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
@@ -58,5 +59,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
