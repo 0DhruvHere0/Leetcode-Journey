@@ -11,6 +11,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3151-special-array-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3151-special-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
