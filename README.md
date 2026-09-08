@@ -23,6 +23,7 @@
 | [0342-power-of-four](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0342-power-of-four) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3280-convert-date-to-binary) |
+| [3870-count-commas-in-range](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
