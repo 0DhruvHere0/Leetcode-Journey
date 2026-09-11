@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
