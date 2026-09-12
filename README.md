@@ -35,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0832-flipping-an-image) |
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0290-word-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
