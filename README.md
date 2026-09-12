@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0290-word-pattern) |
+| [1021-remove-outermost-parentheses](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3280-convert-date-to-binary](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3280-convert-date-to-binary) |
 ## Recursion
@@ -82,4 +83,12 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0290-word-pattern) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
