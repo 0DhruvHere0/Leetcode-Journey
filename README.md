@@ -48,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0290-word-pattern) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3280-convert-date-to-binary](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3280-convert-date-to-binary) |
 ## Recursion
@@ -77,4 +78,8 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0704-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
