@@ -27,6 +27,7 @@
 | [0189-rotate-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0342-power-of-four) |
+| [0836-rectangle-overlap](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0836-rectangle-overlap) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3280-convert-date-to-binary) |
 | [3870-count-commas-in-range](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3870-count-commas-in-range) |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0796-rotate-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
