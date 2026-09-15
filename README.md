@@ -16,6 +16,7 @@
 | [0832-flipping-an-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0832-flipping-an-image) |
 | [1480-running-sum-of-1d-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3151-special-array-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3151-special-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
@@ -86,6 +87,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0836-rectangle-overlap) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
