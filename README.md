@@ -5,9 +5,26 @@
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
