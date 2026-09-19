@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
