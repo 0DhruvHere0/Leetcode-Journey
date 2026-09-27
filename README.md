@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0162-find-peak-element](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -34,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
