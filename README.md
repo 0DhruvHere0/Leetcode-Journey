@@ -59,4 +59,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0048-rotate-image) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
