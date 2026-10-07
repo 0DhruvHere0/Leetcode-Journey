@@ -78,6 +78,7 @@
 | [1164-product-price-at-a-given-date](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1164-product-price-at-a-given-date) |
 | [1280-students-and-examinations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1484-group-sold-products-by-the-date](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1683-invalid-tweets) |
