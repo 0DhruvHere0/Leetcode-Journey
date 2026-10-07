@@ -74,5 +74,6 @@
 | [1280-students-and-examinations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1683-invalid-tweets) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
