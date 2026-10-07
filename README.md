@@ -72,6 +72,7 @@
 | [0610-triangle-judgement](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1148-article-views-i) |
+| [1164-product-price-at-a-given-date](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1164-product-price-at-a-given-date) |
 | [1280-students-and-examinations](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1683-invalid-tweets) |
