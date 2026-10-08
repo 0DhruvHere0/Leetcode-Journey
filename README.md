@@ -49,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -86,4 +87,12 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1907-count-salary-categories) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
