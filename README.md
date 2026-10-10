@@ -10,6 +10,7 @@
 | [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2942-find-words-containing-character](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [2942-find-words-containing-character](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
