@@ -9,6 +9,7 @@
 | [0162-find-peak-element](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [1534-count-good-triplets](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1534-count-good-triplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
@@ -101,5 +102,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1534-count-good-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
