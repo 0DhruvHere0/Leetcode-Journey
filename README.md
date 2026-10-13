@@ -91,6 +91,7 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1907-count-salary-categories) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Stack
 |  |
 | ------- |
