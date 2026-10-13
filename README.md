@@ -79,6 +79,7 @@
 | [0595-big-countries](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1164-product-price-at-a-given-date) |
