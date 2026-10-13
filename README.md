@@ -77,6 +77,7 @@
 | [0577-employee-bonus](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1148-article-views-i) |
