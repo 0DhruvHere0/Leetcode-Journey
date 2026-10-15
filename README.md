@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1108-defanging-an-ip-address) |
 | [2942-find-words-containing-character](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3838-weighted-word-mapping) |
