@@ -14,6 +14,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3838-weighted-word-mapping](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,10 +56,12 @@
 | [1021-remove-outermost-parentheses](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [2942-find-words-containing-character](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3838-weighted-word-mapping) |
 ## Newton's Method
 |  |
 | ------- |
