@@ -11,6 +11,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1534-count-good-triplets) |
+| [1920-build-array-from-permutation](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
@@ -65,6 +66,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3838-weighted-word-mapping) |
 ## Newton's Method
