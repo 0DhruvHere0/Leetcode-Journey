@@ -9,6 +9,7 @@
 | [0162-find-peak-element](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [1512-number-of-good-pairs](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1534-count-good-triplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -45,6 +48,7 @@
 | [0048-rotate-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1512-number-of-good-pairs](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
