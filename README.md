@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0162-find-peak-element](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0229-majority-element-ii) |
@@ -121,4 +122,12 @@
 | ------- |
 | [1534-count-good-triplets](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1534-count-good-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
