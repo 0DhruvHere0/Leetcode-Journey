@@ -19,6 +19,7 @@
 | [2942-find-words-containing-character](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3838-weighted-word-mapping](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [1920-build-array-from-permutation](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/0DhruvHere0/Leetcode-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Newton's Method
 |  |
 | ------- |
